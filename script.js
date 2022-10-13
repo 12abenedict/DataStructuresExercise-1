@@ -110,3 +110,5 @@ const starWarsMovies = [
 // 6b
 starWarsMovies.splice(1, 0, `Solo`, `Rogue One`);
 console.log(starWarsMovies); 
+
+// This was really cool
